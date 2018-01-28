@@ -1,0 +1,6 @@
+#mm-dd-yyyy
+mkdir %date:~-10,2%"-"%date:~7,2%"-"%date:~-4,4%
+
+
+#dd-mm-yyyy
+mkdir %date:~7,2%"-"%date:~-10,2%"-"%date:~-4,4%
